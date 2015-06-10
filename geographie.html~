@@ -27,12 +27,16 @@
 			Edito // Geographie
 		</h2>
 		<p>
-			Lorem ipsum dolor sit amet consect etuer adipi scing elit sed diam nonummy nibh euismod tinunt ut laoreet dolore magna aliquam erat volut. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+			Avec une surface émergée de 30 millions de km², l’Afrique est le troisième continentnotes 1 par sa superficie ; cela représente 6 % de la surface terrestre et 20 % de la surface des terres émergées18. Séparé de l'Europe par la mer Méditerranée, il est rattaché à l'Asie à son extrémité nord-est par l'isthme de Suez (traversé par le canal de Suez) sur 163 km19. Depuis son extrémité nord à Ras ben Sakka (37°21' N) en Tunisie à son extrémité sud au Cap des Aiguilles (34°51'15" S) en Afrique du Sud, le continent s'étend sur environ 8 000 km ; depuis le Cap-Vert (17°33'22" O), à son extrême ouest, à Ras Hafun (51°27'52" E) en Somalie, à l'extrême est, il s'étend sur 7 400 km20.
 		</p>
 		<p>
-			Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+			Ses côtes, rectilignes, sont longues de 26 000 km. L'absence de profondes entailles de sa rive est remarquable ; en effet, par comparaison, l'Europe, qui s'étend sur 10,4 millions de km2, soit environ un tiers de la surface de l'Afrique, présente un littoral de 32 000 km20, plus long de 6 000 km.
 		</p>
-		
+		<p>
+Le Sahara, le plus grand désert d'Afrique et le plus grand désert chaud du monde, à lui seul, couvre une superficie de près de 8,6 millions de km221. Le Sahel, bande continue de savanes tropicales semi-arides située juste au sud du Sahara, couvre près de 2,7 millions de km2. Ainsi les régions hyper-arides, arides et semi-arides d'Afrique du Nord (Sahara et Sahel) couvrent environ un tiers de la superficie totale du continent africain.
+		</p>
+		<p>
+Le plus grand pays d'Afrique, par sa superficie, le dixième au monde, est l'Algérie, tandis que l'archipel des Seychelles, au large de la côte est de l'Afrique, est le plus petit22. By Euriel GOSLIN
 	</div>
 	
 
@@ -98,20 +102,6 @@
 			</h3>
 		</div>
 
-	<!-- Adrien : Maghreb -->
-		<div class="element">
-			<h2>
-				Titre
-			</h2>
-			<img src="ecu.jpg" alt="Ecureuil">
-			<p>
-				Contenu... LOREM IPSUM :)
-			</p>
-			<h3>Source : <a href="#">blabla</a>
-			</h3>
-		</div>
-
-
 	<!-- Gabi : Kenya -->
 		<div class="element">
 			<h2>
@@ -125,6 +115,18 @@
 			</h3>
 		</div>
 	
+	<!-- Adrien : Maghreb -->
+		<div class="element">
+			<h2>
+				Le Maghreb
+			</h2>
+			<img src="img_geo/maghreb.png" alt="Maghreb">
+			<p>Le Maghreb est la partie occidentale du monde arabe correspondant à l'espace culturel arabo-berbère, soit la région d’Afrique du Nord comprise entre la mer Méditerranée, le Sahel, l’océan Atlantique et l'Égypte. Les premiers conquérants musulmans ont appelé Djazirat al-Maghrib, c'est-à-dire « Île du Couchant », les pays isolés du reste du monde arabe à l'ouest du Golfe de Syrte. Avec la colonisation française, le Maghreb au sens strict désignait le Maroc, l'Algérie et la Tunisie. Aujourd'hui, afin d'éviter toute confusion, on utilise les termes « Petit Maghreb » pour se référer à ces trois pays et « Grand Maghreb » pour se référer à un espace qui inclut également la Mauritanie et la Libye, ainsi que le territoire contesté du Sahara occidental. La région de Kidal au Mali et la région d'Agadez au Niger, peuplées principalement de Touaregs et de Maures sont culturellement proches du reste du Maghreb. La limite orientale est elle plus floue, en effet, la Cyrénaïque, en Libye, reste fortement influencée par le Machrek1 tandis que Siwa est une oasis berbérophone en territoire égyptien. Le Maghreb occupe une superficie d'environ cinq millions de km² partagés entre le bassin méditerranéen et le désert du Sahara qui recouvre la majeure partie de son territoire. La population d'environ 90 millions d’habitants est de ce fait très inégalement répartie et concentrée principalement sur les plaines littorales.
+			  
+			</p>
+			<h3>Source : <a href="#">http://fr.wikipedia.org/wiki/Maghreb</a>
+			</h3>
+		</div>
 
 	<!-- Valentin : Climat -->
 		<div class="element">
